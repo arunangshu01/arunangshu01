@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm Arunangshu Pramanik, a passionate software eng
 
 ### GitHub Stats
 
-(https://github-readme-stats.vercel.app/api?username=arunangshu01&theme=radical)
+🔗 [**Stats Till Date**](https://github-readme-stats.vercel.app/api?username=arunangshu01&theme=radical)
 
 ### Let's Connect
 
