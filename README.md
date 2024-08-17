@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm Arunangshu Pramanik, a passionate software eng
 - **5 x Raving Reviews Awards** – Apisero Inc. (October 2021, December 2021, March 2022, January 2023 & February 2023)
 - **Vendustrious Award** – Apisero Inc. (March 2023)
 
-### GitHub Stats
+### GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arunangshu01&show_icons=true&theme=radical" alt="Your GitHub stats" />
