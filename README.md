@@ -39,7 +39,11 @@ Welcome to my GitHub profile! I'm Arunangshu Pramanik, a passionate software eng
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunangshu01&show_icons=true&theme=radical" alt="Your GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arunangshu01&show_icons=true&theme=radical" alt="Arunangshu's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunangshu01&theme=radical" alt="Arunangshu's GitHub Streaks" />
 </p>
 
 ### Let's Connect
