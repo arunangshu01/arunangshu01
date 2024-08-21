@@ -1,9 +1,8 @@
 # Arunangshu Pramanik
 
-<div style="display: flex; justify-content: flex-end; align-items: center;">
-  <span>Profile views</span>
-  <img src="https://komarev.com/ghpvc/?username=arunangshu01&label=&color=0e75b6&style=flat" alt="arunangshu01" style="margin-left: 10px;" />
-</div>
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=arunangshu01&label=Profile%20views&color=0e75b6&style=flat" alt="arunangshu01" />
+</p>
 
 ## Software Engineer | Data & Cloud Services Architect | Python & Azure Enthusiast
 
