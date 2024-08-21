@@ -43,27 +43,23 @@ Welcome to my GitHub profile! I'm Arunangshu Pramanik, a passionate software eng
 ### GitHub Statistics
 
 <p align="center">
-  <img width=70% src="https://github-readme-stats.vercel.app/api?username=arunangshu01&show_icons=true&theme=radical&no-bg=true&no-frame=true" alt="arunangshu01" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arunangshu01&show_icons=true&theme=radical&no-bg=true&no-frame=true" alt="arunangshu01" />
 </p>
 
 <p align="center">
-  <img width=80% src="https://github-readme-streak-stats.herokuapp.com/?user=arunangshu01&show_icons=true&theme=radical&no-bg=true&no-frame=true" alt="arunangshu01" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunangshu01&show_icons=true&theme=radical&no-bg=true&no-frame=true" alt="arunangshu01" />
 </p>
 
 <p align="center"> 
-  <img width=100% src="https://github-profile-trophy.vercel.app/?username=arunangshu01&show_icons=true&theme=radical&no-bg=true&no-frame=true" alt="arunangshu01" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=arunangshu01&show_icons=true&theme=radical&no-bg=true&no-frame=true" alt="arunangshu01" /> 
 </p>
 
 <p align="center">
-  <img width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=arunangshu01&show_icons=true&locale=en&layout=compact&theme=radical&no-bg=true&no-frame=true" alt="arunangshu01" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunangshu01&show_icons=true&locale=en&layout=compact&theme=radical&no-bg=true&no-frame=true" alt="arunangshu01" />
 </p>
 
 <p align="center">
-  <img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=arunangshu01&theme=redical&hide_border=true" alt="arunangshu01" />
-</p>
-
-<p align="center">
-  <img width=100% src="https://raw.githubusercontent.com/arunangshu01/arunangshu01/main/3DGraphs/profile-night-rainbow.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunangshu01&theme=redical&hide_border=true" alt="arunangshu01" />
 </p>
 
 ### Let's Connect
