@@ -1,5 +1,9 @@
 # Arunangshu Pramanik
 
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=arunangshu01&label=Profile%20views&color=0e75b6&style=flat" alt="arunangshu01" />
+</p>
+
 ## Software Engineer | Data & Cloud Services Architect | Python & Azure Enthusiast
 
 Welcome to my GitHub profile! I'm Arunangshu Pramanik, a passionate software engineer with over 4 years of experience in Data and Cloud Services Architecture. My expertise lies in designing, developing, and maintaining high-quality data solutions and SaaS applications.
@@ -37,6 +41,10 @@ Welcome to my GitHub profile! I'm Arunangshu Pramanik, a passionate software eng
 - **Vendustrious Award** – Apisero Inc. (March 2023)
 
 ### GitHub Statistics
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunangshu01&show_icons=true&theme=radica" alt="arunangshu01" /></a> 
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arunangshu01&show_icons=true&theme=radical" alt="arunangshu01" />
