@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm Arunangshu Pramanik, a passionate software eng
 ### GitHub Statistics
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunangshu01&show_icons=true&theme=radical&no-bg=true&no-frame=true" alt="arunangshu01" /></a> 
+  <img src="https://github-profile-trophy.vercel.app/?username=arunangshu01&show_icons=true&theme=radical&no-bg=true&no-frame=true" alt="arunangshu01" /> 
 </p>
 
 <p align="center">
