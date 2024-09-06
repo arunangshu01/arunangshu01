@@ -62,13 +62,20 @@ Welcome to my GitHub profile! I'm Arunangshu Pramanik, a passionate software eng
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunangshu01&show_icons=true&locale=en&layout=compact&theme=radical&no-bg=true&no-frame=true" alt="arunangshu01" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/osiristape/osiristape/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/osiristape/osiristape/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/osiristape/osiristape/output/github-snake.svg" />
+  </picture>
+</p>
 
-![gitartwork](gitartwork.svg)
+<p align="center">
+  <picture>
+    <img alt="artwork" src="gitartwork.svg" />
+  </picture>
+</p>
+
 
 
 
