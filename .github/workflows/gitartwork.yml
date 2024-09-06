@@ -1,4 +1,4 @@
- name: gitartwork from a contribution graph
+ name: Git Artwork from a Contribution Graph
  on:
    push:
    schedule:
@@ -11,8 +11,6 @@
        - uses: actions/checkout@v3
        - uses: jasineri/gitartwork@v1
          with:
-            # Use this username's contribution graph
             user_name: arunangshu01
-            # Text on contribution graph
-            text: ARUNANGSHU01
+            text: ARUNANGSHU
        - uses: jasineri/simple-push-action@v1
