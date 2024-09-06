@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I'm Arunangshu Pramanik, a passionate software eng
 </p>
 
 <p align="center">
-  ![snake gif](https://github.com/arunangshu01/arunangshu01/blob/output/github-contribution-grid-snake.gif)
+  <img src="https://github.com/arunangshu01/arunangshu01/blob/output/github-contribution-grid-snake.gif" />
 </p>
 
 ### Let's Connect
