@@ -64,9 +64,8 @@ Welcome to my GitHub profile! I'm Arunangshu Pramanik, a passionate software eng
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/arunangshu01/arunangshu01/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/arunangshu01/arunangshu01/output/github-contribution-grid-snake.svg">
-    <img alt="arunangshu01_github_contribution_grid_snake_animation" src="https://github.com/arunangshu01/arunangshu01/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/arunangshu01/arunangshu01/output/github-contribution-grid-snake.svg">
+    <img alt="arunangshu01_github_contribution_grid_snake_animation" src="https://github.com/arunangshu01/arunangshu01/output/github-contribution-grid-snake.gif">
   </picture>
 </p>
 
