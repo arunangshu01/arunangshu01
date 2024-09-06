@@ -12,5 +12,5 @@
        - uses: jasineri/gitartwork@v1
          with:
             user_name: arunangshu01
-            text: ARUNANGSHU
+            text: DRANZER
        - uses: jasineri/simple-push-action@v1
