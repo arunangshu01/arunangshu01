@@ -62,6 +62,13 @@ Welcome to my GitHub profile! I'm Arunangshu Pramanik, a passionate software eng
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunangshu01&show_icons=true&locale=en&layout=compact&theme=radical&no-bg=true&no-frame=true" alt="arunangshu01" />
 </p>
 
+### Artwork in Profile
+
+<p align="center">
+  <picture>
+    <img alt="artwork" src="gitartwork.svg" />
+  </picture>
+</p>
 
 ### Let's Connect
 
