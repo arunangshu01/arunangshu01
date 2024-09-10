@@ -1,8 +1,13 @@
 name: Generate Snake Animation
+
 on:
   push:
+    branches:
+      - main
+      - master
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */24 * * *"
+
 jobs:
   build:
     runs-on: ubuntu-latest
