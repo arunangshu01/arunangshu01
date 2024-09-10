@@ -62,6 +62,17 @@ Welcome to my GitHub profile! I'm Arunangshu Pramanik, a passionate software eng
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunangshu01&show_icons=true&locale=en&layout=compact&theme=radical&no-bg=true&no-frame=true" alt="arunangshu01" />
 </p>
 
+### Snake Generator Animation
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arunangshu01/arunangshu01/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arunangshu01/arunangshu01/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/arunangshu01/arunangshu01/output/github-snake.svg" />
+  </picture>
+</p>
+
+
 ### Artwork in Profile
 
 <p align="center">
