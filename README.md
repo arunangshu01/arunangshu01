@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm Arunangshu Pramanik, a passionate software eng
 
 - **Bachelor of Technology (B.Tech) in Computer Science & Engineering (CSE)**
   - Institute of Engineering & Management (IEM), Kolkata
-  - Graduated with an 8.54 GPA in 2019
+  - Graduated with an 8.53 GPA in 2019
 
 ### Awards & Recognitions
 
