@@ -43,23 +43,23 @@ Welcome to my GitHub profile! I'm Arunangshu Pramanik, a passionate software eng
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunangshu01&theme=redical&hide_border=true" alt="arunangshu01" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunangshu01&theme=tokyonight&hide_border=true" alt="arunangshu01" />
 </p>
 
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=arunangshu01&show_icons=true&theme=radical&no-bg=true&no-frame=true" alt="arunangshu01" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=arunangshu01&show_icons=true&theme=tokyonight&no-bg=true&no-frame=true" alt="arunangshu01" /> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunangshu01&show_icons=true&theme=radical&no-bg=true&no-frame=true" alt="arunangshu01" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arunangshu01&show_icons=true&theme=tokyonight&no-bg=true&no-frame=true" alt="arunangshu01" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunangshu01&show_icons=true&theme=radical&no-bg=true&no-frame=true" alt="arunangshu01" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunangshu01&show_icons=true&theme=tokyonight&no-bg=true&no-frame=true" alt="arunangshu01" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunangshu01&show_icons=true&locale=en&layout=compact&theme=radical&no-bg=true&no-frame=true" alt="arunangshu01" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunangshu01&show_icons=true&locale=en&layout=compact&theme=tokyonight&no-bg=true&no-frame=true" alt="arunangshu01" />
 </p>
 
 
