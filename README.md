@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm Arunangshu Pramanik, a passionate software eng
 </p>
 
 <p align="center">
-  <img src="https://arunangshu01-github-readme-stats.vercel.app/api?username=arunangshu01&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats&cache_seconds=14400&hide=contribs&show=discussions_answered,prs_merged,prs_merged_percentage" alt="arunangshu01" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunangshu01&show_icons=true&theme=tokyonight&no-bg=true&no-frame=true" alt="arunangshu01" />
 </p>
 
 <p align="center">
