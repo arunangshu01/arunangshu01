@@ -98,9 +98,10 @@ _Arunangshu Pramanik_
 
 ---
 
-<p align="left"> Fun Fact Of The Day </p>
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+### Fun Fact Of The Day 
 <img src="https://readme-jokes.vercel.app/api?theme=default" width="100%"/>
-<p align="left"> <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"> </p>
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&text=A%20man's%20gotta%20do%20what%20a%20a%20man's%20gotta%20do&section=footer&textBg=false&fontAlign=50&fontAlignY=50&fontSize=40&rotate=0&animation=twinkling&descSize=30&fontColor=000000&stroke=FFFFFF"/>
