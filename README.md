@@ -104,7 +104,9 @@ _Arunangshu Pramanik_
 <p align="center">
   Fun Fact Of The Day
 </p>
-<img src="https://readme-jokes.vercel.app/api?theme=default" width="100%"/>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=default" width="100%"/>
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 </p>
