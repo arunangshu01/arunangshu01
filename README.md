@@ -64,6 +64,10 @@ Welcome to my GitHub profile! I'm Arunangshu Pramanik, a passionate software eng
 
 ### Holopin Board
 
+<p align="center">
+  <img src="https://holopin.io/@arunangshu01" alt="arunangshu01" />
+</p>
+
 [![@arunangshu01's Holopin board](https://holopin.me/arunangshu01)](https://holopin.io/@arunangshu01)
 
 ### Snake Generator Animation
