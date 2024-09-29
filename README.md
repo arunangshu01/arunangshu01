@@ -62,6 +62,9 @@ Welcome to my GitHub profile! I'm Arunangshu Pramanik, a passionate software eng
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunangshu01&show_icons=true&locale=en&layout=compact&theme=radical&no-bg=true&no-frame=true" alt="arunangshu01" />
 </p>
 
+### Holopin Board
+
+[![@arunangshu01's Holopin board](https://holopin.me/arunangshu01)](https://holopin.io/@arunangshu01)
 
 ### Snake Generator Animation
 
@@ -72,7 +75,6 @@ Welcome to my GitHub profile! I'm Arunangshu Pramanik, a passionate software eng
     <img src="https://raw.githubusercontent.com/arunangshu01/arunangshu01/output/github-snake.svg" alt="github-snake-arunangshu01"/>
   </picture>
 </p>
-
 
 ### Artwork in Profile
 
