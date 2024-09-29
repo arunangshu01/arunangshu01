@@ -99,7 +99,7 @@ _Arunangshu Pramanik_
 ---
 
 <p align="left"> Fun Fact Of The Day </p>
-<p align="left"> <img src="https://readme-jokes.vercel.app/api?theme=default" width="100%"/> </p>
+<img src="https://readme-jokes.vercel.app/api?theme=default" width="100%"/>
 <p align="left"> <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"> </p>
 
 <p align="center">
