@@ -4,27 +4,45 @@
   <img src="https://komarev.com/ghpvc/?username=arunangshu01&label=Profile%20views&color=0e75b6&style=flat" alt="arunangshu01" />
 </p>
 
-## Software Engineer | Data & Cloud Services Architect | Python & Azure Enthusiast
+## Senior Software Engineer | Data & Cloud Services Architect | Python, Azure & GCP Enthusiast
 
-Welcome to my GitHub profile! I'm Arunangshu Pramanik, a passionate software engineer with over 5 years of experience in Data and Cloud Services Architecture. My expertise lies in designing, developing, and maintaining high-quality data solutions and SaaS applications.
+Welcome to my GitHub profile! I'm Arunangshu Pramanik, a Senior Software Engineer with 7+ years of experience architecting data and cloud solutions across Azure and GCP. I have a proven track record of designing and delivering production-grade data pipelines, SaaS products, and AI-powered tooling — from BigQuery and Airflow ingestion frameworks to AI agents and data-catalog chatbots.
 
 ### About Me
 
 - 📍 **Location:** Bangalore, Karnataka, India
 - 📧 **Email:** arunangshu01@gmail.com
-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/arunangshu-pramanik-1896168b/)
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/arunangshu-pramanik-1896168b/) | [**GitHub**](https://github.com/arunangshu01) | [**LeetCode**](https://leetcode.com/u/arunangshu01)
+
+### Experience
+
+- **Senior Software Engineer** — Impact Analytics, Bangalore *(Dec 2024 – Present)*
+  - Building core data engineering pipelines (Airflow + GCP) powering AI-driven retail products for clients like Ralph Lauren, Swarovski, Gap, Foot Locker, Patagonia, and Levi's
+  - Architected a near real-time integration framework using Cloud SQL, Cloud Run Functions, Cloud Tasks, BigQuery, Workflows, Eventarc, and PostgreSQL
+  - Built AI agents and chatbots for pipeline triage, task generation, and a Databricks/Snowflake-style data-catalog assistant
+- **Digital Engineering Lead Engineer** — Apisero Inc. (now NTT Data), Bangalore *(Aug 2021 – Dec 2024)*
+  - Developed a SaaS application on Azure Event Hubs, ELK Stack, Snowflake, Blob Storage, and Python for Blue Yonder
+  - Delivered real-time data pipeline solutions to a dozen+ customers including JCPenney, ASDA, 7-Eleven, CVS, Heineken, and Walmart
+- **Systems Engineer** — Infosys Limited, Bangalore *(Oct 2019 – Jul 2021)*
+  - Designed and managed software programs for Cisco Systems across front-end and back-end stacks
 
 ### Skills
 
-- **Programming Languages:** Python, YAML, SQL, Java
-- **Databases:** MSSQL, Oracle, Snowflake
-- **Data Analysis:** Pandas, NumPy
-- **Frameworks:** FastAPI, Django, REST, Spring
+- **Programming Languages:** Python, SQL, Java, JavaScript, TypeScript
+- **Databases & Data Warehouses:** MSSQL, Oracle, PostgreSQL, Snowflake, Databricks, BigQuery
+- **Data Analysis:** Pandas, NumPy, PySpark
+- **Frameworks:** FastAPI, Django, Spring Boot, RESTful APIs
+- **Cloud Platforms:** Azure, GCP
+- **Orchestration:** Apache Airflow
 - **Others:** 
-  - **Azure:** Event Hub, File Storage, Container Registry, Storage Explorer, Key Vault, Container Services, Blob Store
-  - **Tools & Technologies:** Docker, Kubernetes, Elasticsearch, Shell, Kibana, Kafka, Redis, Offset Explorer
-  - **Development & Collaboration:** Jira, Confluence, Jenkins, Git, GitHub Actions
-  - **Web Development:** JavaScript, TypeScript, HTML, CSS, Bootstrap, Angular, React
+  - **Azure:** Event Hubs, Files, Blob Storage, Container Registry & Services, Key Vault, Storage Explorer
+  - **GCP:** Cloud Tasks, Cloud Run (Functions), Cloud SQL, Cloud Scheduler, Workflows, Eventarc, Cloud Storage, Secret Manager, Pub/Sub, Dataflow, Compute Engine, Analytics Hub, IAM, VPC, Google Cloud APIs, Databricks Workspace
+  - **DevOps:** Docker, Kubernetes, Jenkins, Git, GitHub Actions, Bitbucket Pipelines, Shell Scripting, YAML
+  - **Monitoring & Logging:** Datadog, Elasticsearch, Kibana
+  - **Messaging & Caching:** Kafka, Redis
+  - **Development & Collaboration:** Jira, Confluence, Slack, DBeaver, Postman, Offset Explorer
+  - **AI Tools:** Cursor, Devin AI
+  - **Web Development:** HTML, CSS, Bootstrap, Angular, React
 
 ### Education
 
@@ -39,27 +57,24 @@ Welcome to my GitHub profile! I'm Arunangshu Pramanik, a passionate software eng
 - **Apisero Aces Award** – Apisero Inc. (October 2022)
 - **5 x Raving Reviews Awards** – Apisero Inc. (October 2021, December 2021, March 2022, January 2023 & February 2023)
 - **Vendustrious Award** – Apisero Inc. (March 2023)
+- **Impact Excellence Award – Q2 2026** – Impact Analytics (June 2026)
 
 ### GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunangshu01&theme=react&hide_border=false" alt="arunangshu01" />
-</p>
-
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=arunangshu01&show_icons=true&theme=react&no-bg=true&no-frame=false&hide_border=false" alt="arunangshu01" /> 
+  <img src="https://github-trophies.vercel.app/?username=arunangshu01&theme=tokyonight&no-frame=true" alt="arunangshu01" /> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunangshu01&show_icons=true&theme=react&no-bg=true&no-frame=true&hide_border=false" alt="arunangshu01" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arunangshu01&show_icons=true&theme=tokyonight&no-bg=true&no-frame=true&hide_border=false" alt="arunangshu01" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunangshu01&show_icons=true&theme=react&no-bg=true&no-frame=true" alt="arunangshu01" />
+  <img src="https://streak-stats.demolab.com/?user=arunangshu01&show_icons=true&theme=tokyonight&no-bg=true&no-frame=true" alt="arunangshu01" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunangshu01&show_icons=true&locale=en&layout=compact&theme=react&no-bg=true&no-frame=true" alt="arunangshu01" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunangshu01&show_icons=true&locale=en&layout=compact&theme=tokyonight&no-bg=true&no-frame=true" alt="arunangshu01" />
 </p>
 
 ### Holopin Board
@@ -99,7 +114,7 @@ _Arunangshu Pramanik_
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 <p align="center">
   Fun Fact Of The Day
@@ -108,7 +123,7 @@ _Arunangshu Pramanik_
   <img src="https://readme-jokes.vercel.app/api?theme=default" width="100%"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
 <p align="center">
