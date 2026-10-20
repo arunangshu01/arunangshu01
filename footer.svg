@@ -1,0 +1,38 @@
+<svg width="854" height="200" viewBox="0 0 854 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="reactorf" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f5b83d" stop-opacity="0.9"/>
+      <stop offset="45%" stop-color="#f5b83d" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#f5b83d" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="gridf" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#f5b83d" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="854" height="200" fill="#0a0805"/>
+  <rect width="854" height="200" fill="url(#gridf)"/>
+  <rect x="1.5" y="1.5" width="851" height="197" fill="none" stroke="#e0342b" stroke-width="2"/>
+
+  <path d="M12 32V12h20" fill="none" stroke="#f5b83d" stroke-width="3" opacity="0.7"/>
+  <path d="M842 32V12h-20" fill="none" stroke="#f5b83d" stroke-width="3" opacity="0.7"/>
+  <path d="M12 168v20h20" fill="none" stroke="#f5b83d" stroke-width="3" opacity="0.7"/>
+  <path d="M842 168v20h-20" fill="none" stroke="#f5b83d" stroke-width="3" opacity="0.7"/>
+
+  <!-- mini arc reactors -->
+  <g>
+    <circle cx="110" cy="100" r="50" fill="url(#reactorf)"/>
+    <circle cx="110" cy="100" r="22" fill="none" stroke="#f5b83d" stroke-width="2" opacity="0.9"/>
+    <circle cx="110" cy="100" r="11" fill="none" stroke="#fcd34d" stroke-width="2.5"/>
+    <circle cx="110" cy="100" r="4" fill="#fcd34d"/>
+  </g>
+  <g>
+    <circle cx="744" cy="100" r="50" fill="url(#reactorf)"/>
+    <circle cx="744" cy="100" r="22" fill="none" stroke="#f5b83d" stroke-width="2" opacity="0.9"/>
+    <circle cx="744" cy="100" r="11" fill="none" stroke="#fcd34d" stroke-width="2.5"/>
+    <circle cx="744" cy="100" r="4" fill="#fcd34d"/>
+  </g>
+
+  <text x="427" y="108" text-anchor="middle" font-family="Orbitron, 'Arial Black', sans-serif" font-size="40" font-weight="900" letter-spacing="6" fill="#f5b83d">I AM IRON MAN</text>
+  <text x="427" y="152" text-anchor="middle" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="15" letter-spacing="4" fill="#a8a29e">PROOF THAT TONY STARK HAS A HEART</text>
+</svg>
