@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://arunangshu-pramanik-portfolio-frontend.onrender.com/">
+  <a href="https://arunangshu-pramanik-portfolio.web.app/">
     <img src="https://img.shields.io/badge/⚡%20PORTFOLIO-ENTER%20THE%20ARMORY-f5b83d?style=for-the-badge&labelColor=0a0805" alt="portfolio" />
   </a>
 </p>
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm Arunangshu Pramanik, a Senior Software Enginee
 
 - 📍 **Location:** Bangalore, Karnataka, India
 - 📧 **Email:** arunangshu01@gmail.com
-- 🌐 [**Portfolio**](https://arunangshu-pramanik-portfolio-frontend.onrender.com/)
+- 🌐 [**Portfolio**](https://arunangshu-pramanik-portfolio.web.app/)
 - 🔗 [**LinkedIn**](https://www.linkedin.com/in/arunangshu-pramanik-1896168b/) | [**GitHub**](https://github.com/arunangshu01) | [**LeetCode**](https://leetcode.com/u/arunangshu01)
 
 ### Experience
