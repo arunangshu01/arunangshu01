@@ -3,7 +3,7 @@
 </p>
 
 <p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=arunangshu01&label=Profile%20views&color=f5b83d&style=flat" alt="arunangshu01" />
+  <img src="https://komarev.com/ghpvc/?username=arunangshu01&label=Profile%20views&color=f5b83d&style=for-the-badge" alt="arunangshu01" />
 </p>
 
 <p align="center">
@@ -55,18 +55,17 @@ Welcome to my GitHub profile! I'm Arunangshu Pramanik, a Senior Software Enginee
 
 ### Education
 
-- **Bachelor of Technology (B.Tech) in Computer Science & Engineering (CSE)**
-  - Institute of Engineering & Management (IEM), Kolkata
-  - Graduated with an 8.53 GPA in 2019
+- **Bachelor of Technology in Computer Science & Engineering** - Institute of Engineering & Management (IEM), Kolkata *(2015 - 2019)*
+  - Graduated with a DGPA of 8.53
 
 ### Awards & Recognitions
 
-- **Cisco Systems: Most Valuable Player of the Quarter** - Infosys Limited (March 2020)
+- **Most Valuable Player of the Quarter** - Cisco Systems, Infosys Limited (March 2020)
 - **Rookie of the Quarter** - Apisero Inc. (October 2021)
 - **Apisero Aces Award** - Apisero Inc. (October 2022)
-- **5 x Raving Reviews Awards** - Apisero Inc. (October 2021, December 2021, March 2022, January 2023 & February 2023)
+- **Raving Reviews Awards x5** - Apisero Inc. (October 2021, December 2021, March 2022, January 2023 & February 2023)
 - **Vendustrious Award** - Apisero Inc. (March 2023)
-- **Impact Excellence Award - Q2 2026** - Impact Analytics (June 2026)
+- **Impact Excellence Award (Q2 2026)** - Impact Analytics (June 2026)
 
 ### GitHub Statistics
 
@@ -75,7 +74,7 @@ Welcome to my GitHub profile! I'm Arunangshu Pramanik, a Senior Software Enginee
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunangshu01&show_icons=true&bg_color=272822&title_color=f5b83d&text_color=fcd34d&icon_color=e0342b&hide_border=true" alt="arunangshu01" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arunangshu01&theme=monokai" alt="arunangshu01" />
 </p>
 
 <p align="center">
@@ -83,12 +82,16 @@ Welcome to my GitHub profile! I'm Arunangshu Pramanik, a Senior Software Enginee
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunangshu01&show_icons=true&locale=en&layout=compact&bg_color=272822&title_color=f5b83d&text_color=fcd34d&hide_border=true" alt="arunangshu01" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arunangshu01&theme=monokai" alt="arunangshu01" />
 </p>
 
 ### Holopin Board
 
-[![@arunangshu01's Holopin board](https://holopin.me/arunangshu01)](https://holopin.io/@arunangshu01)
+<p align="center">
+  <a href="https://holopin.io/@arunangshu01">
+    <img src="https://holopin.me/arunangshu01" alt="@arunangshu01's Holopin board" />
+  </a>
+</p>
 
 ### Snake Generator Animation
 
@@ -110,23 +113,20 @@ Welcome to my GitHub profile! I'm Arunangshu Pramanik, a Senior Software Enginee
 
 ### Let's Connect
 
-I'm always open to connecting with like-minded professionals and exploring new opportunities. Whether you have a question, a project idea, or just want to chat about technology, feel free to reach out!
+I'm always open to connecting with like-minded professionals and exploring new opportunities. Whether you have a question, a project idea, or just want to chat about technology, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/arunangshu-pramanik-1896168b/), [email](mailto:arunangshu01@gmail.com), or my [portfolio](https://arunangshu-pramanik-portfolio.web.app/).
 
 ---
 
 Thank you for visiting my GitHub profile. Happy coding! 🚀
 
----
-
 _Arunangshu Pramanik_
 
 ---
 
+### Fun Fact of the Day
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-<p align="center">
-  Fun Fact Of The Day
 </p>
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23272822&textColor=%23fcd34d&qColor=%23f5b83d&aColor=%23a8a29e&borderColor=%23462e13" width="100%"/>
@@ -136,6 +136,6 @@ _Arunangshu Pramanik_
 </p>
 
 <p align="center">
-     <img src="footer.svg" width="100%" alt="arunangshu01-footer"/>
+  <img src="footer.svg" width="100%" alt="arunangshu01-footer"/>
 </p>
 
