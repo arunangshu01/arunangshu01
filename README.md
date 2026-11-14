@@ -59,6 +59,10 @@ contact:   arunangshu01@gmail.com
 - **Observability & FinOps** - cost and runtime dashboards for Cloud Run, Cloud Functions, and Compute Engine
 - **SaaS platforms** - event-driven applications on Azure Event Hubs, ELK, and Snowflake
 
+<p align="center">
+  <img src="bgstrip.svg" width="100%" alt=""/>
+</p>
+
 ### Experience
 
 - **Senior Software Engineer** - Impact Analytics, Bangalore *(Dec 2024 - Present)*
@@ -72,6 +76,10 @@ contact:   arunangshu01@gmail.com
   - Achieved 90%+ code coverage via decoupling; authored configuration blueprints for data migration platforms
 - **Systems Engineer** - Infosys Limited, Bangalore *(Oct 2019 - Jul 2021)*
   - Built and maintained full-stack programs and APIs for Cisco Systems; 95% QA efficiency
+
+<p align="center">
+  <img src="bgstrip.svg" width="100%" alt=""/>
+</p>
 
 ### Technical Arsenal
 
@@ -93,6 +101,10 @@ contact:   arunangshu01@gmail.com
 
 - **Bachelor of Technology in Computer Science & Engineering** - Institute of Engineering & Management (IEM), Kolkata *(2015 - 2019)*
   - Graduated with a DGPA of 8.53
+
+<p align="center">
+  <img src="bgstrip.svg" width="100%" alt=""/>
+</p>
 
 ### Awards & Recognitions
 
@@ -125,12 +137,20 @@ contact:   arunangshu01@gmail.com
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arunangshu01&theme=monokai" alt="arunangshu01" />
 </p>
 
+<p align="center">
+  <img src="bgstrip.svg" width="100%" alt=""/>
+</p>
+
 ### Holopin Board
 
 <p align="center">
   <a href="https://holopin.io/@arunangshu01">
     <img src="https://holopin.me/arunangshu01" alt="@arunangshu01's Holopin board" />
   </a>
+</p>
+
+<p align="center">
+  <img src="bgstrip.svg" width="100%" alt=""/>
 </p>
 
 ### Snake Generator Animation
@@ -143,11 +163,15 @@ contact:   arunangshu01@gmail.com
   </picture>
 </p>
 
+<p align="center">
+  <img src="bgstrip.svg" width="100%" alt=""/>
+</p>
+
 ### Artwork in Profile
 
 <p align="center">
   <picture>
-    <img src="gitartwork.svg" alt="dranzer-artwork-arunangshu01" />
+    <img src="gitartwork.svg?v=2" alt="dranzer-artwork-arunangshu01" />
   </picture>
 </p>
 

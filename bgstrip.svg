@@ -1,0 +1,56 @@
+<svg width="854" height="90" viewBox="0 0 854 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e0342b" stop-opacity="0.9"/>
+      <stop offset="12%" stop-color="#e0342b" stop-opacity="0"/>
+      <stop offset="88%" stop-color="#e0342b" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#e0342b" stop-opacity="0.9"/>
+    </linearGradient>
+    <radialGradient id="pglow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f5b83d" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#f5b83d" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="854" height="90" fill="#0a0805" opacity="0.6"/>
+
+  <!-- drifting vertical grid lines -->
+  <g stroke="#f5b83d" stroke-opacity="0.05" stroke-width="1">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;48 0" dur="4s" repeatCount="indefinite"/>
+      <line x1="0" y1="0" x2="0" y2="90"/><line x1="48" y1="0" x2="48" y2="90"/><line x1="96" y1="0" x2="96" y2="90"/><line x1="144" y1="0" x2="144" y2="90"/><line x1="192" y1="0" x2="192" y2="90"/><line x1="240" y1="0" x2="240" y2="90"/><line x1="288" y1="0" x2="288" y2="90"/><line x1="336" y1="0" x2="336" y2="90"/><line x1="384" y1="0" x2="384" y2="90"/><line x1="432" y1="0" x2="432" y2="90"/><line x1="480" y1="0" x2="480" y2="90"/><line x1="528" y1="0" x2="528" y2="90"/><line x1="576" y1="0" x2="576" y2="90"/><line x1="624" y1="0" x2="624" y2="90"/><line x1="672" y1="0" x2="672" y2="90"/><line x1="720" y1="0" x2="720" y2="90"/><line x1="768" y1="0" x2="768" y2="90"/><line x1="816" y1="0" x2="816" y2="90"/><line x1="864" y1="0" x2="864" y2="90"/>
+    </g>
+  </g>
+  <g stroke="#f5b83d" stroke-opacity="0.05" stroke-width="1">
+    <line x1="0" y1="30" x2="854" y2="30"/>
+    <line x1="0" y1="60" x2="854" y2="60"/>
+  </g>
+
+  <!-- scan sweep -->
+  <rect x="-80" y="0" width="80" height="90" fill="#f5b83d" opacity="0.03">
+    <animate attributeName="x" values="-80;854" dur="9s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- ambient glows -->
+  <ellipse cx="160" cy="45" rx="120" ry="50" fill="url(#pglow)">
+    <animate attributeName="cx" values="160;694;160" dur="14s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.9;0.4" dur="6s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="694" cy="45" rx="120" ry="50" fill="url(#pglow)">
+    <animate attributeName="cx" values="694;160;694" dur="14s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.9;0.4;0.9" dur="6s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- floating particles -->
+  <g fill="#fcd34d">
+    <circle cx="120" cy="20" r="1.5"><animate attributeName="cy" values="20;70;20" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="300" cy="70" r="1.3"><animate attributeName="cy" values="70;15;70" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="9s" repeatCount="indefinite"/></circle>
+    <circle cx="460" cy="25" r="1.6"><animate attributeName="cy" values="25;75;25" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="620" cy="65" r="1.3"><animate attributeName="cy" values="65;15;65" dur="10s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="30" r="1.5"><animate attributeName="cy" values="30;72;30" dur="8.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="8.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- edge fades -->
+  <rect x="0" y="0" width="854" height="3" fill="url(#edge)"/>
+  <rect x="0" y="87" width="854" height="3" fill="url(#edge)"/>
+</svg>
