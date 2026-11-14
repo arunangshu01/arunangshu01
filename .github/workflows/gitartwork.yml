@@ -6,7 +6,7 @@ on:
       - main
       - master
   schedule:
-    - cron: '* */24 * * *'
+    - cron: '0 */24 * * *'
 
 jobs:
   build:
@@ -18,4 +18,11 @@ jobs:
         with:
           user_name: arunangshu01
           text: DRANZER
+      - name: Apply Iron Man palette
+        run: |
+          sed -i 's/--c0: rgba(27, 31, 35, 0.06);/--c0: rgba(245, 184, 61, 0.08);/' gitartwork.svg
+          sed -i 's/--c1: #9be9a8;/--c1: #fcd34d;/' gitartwork.svg
+          sed -i 's/--c2: #40c463;/--c2: #f5b83d;/' gitartwork.svg
+          sed -i 's/--c3: #30a14e;/--c3: #d69a2a;/' gitartwork.svg
+          sed -i 's/--c4: #216e39;/--c4: #e0342b;/' gitartwork.svg
       - uses: jasineri/simple-push-action@v1
