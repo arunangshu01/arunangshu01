@@ -1,0 +1,40 @@
+<svg width="854" height="28" viewBox="0 0 854 28" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f5b83d" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#f5b83d" stop-opacity="0.9"/>
+      <stop offset="80%" stop-color="#f5b83d" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#f5b83d" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="dot" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f5b83d"/>
+      <stop offset="100%" stop-color="#f5b83d" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="854" height="28" fill="none"/>
+  <rect x="20" y="13.5" width="814" height="1.5" fill="url(#line)"/>
+  <!-- center reactor tick -->
+  <circle cx="427" cy="14" r="12" fill="url(#dot)">
+    <animate attributeName="opacity" values="0.2;0.7;0.2" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="427" cy="14" r="5" fill="none" stroke="#f5b83d" stroke-width="1.5">
+    <animate attributeName="r" values="4;6.5;4" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="427" cy="14" r="2" fill="#fcd34d">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <!-- scanning dot -->
+  <circle cx="0" cy="14" r="2" fill="#fcd34d">
+    <animate attributeName="cx" values="40;814" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.8;0.8;0" keyTimes="0;0.1;0.9;1" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <!-- side ticks -->
+  <g stroke="#e0342b" stroke-width="1.5">
+    <line x1="30" y1="9" x2="30" y2="20"/>
+    <line x1="824" y1="9" x2="824" y2="20"/>
+  </g>
+  <g stroke="#f5b83d" stroke-width="1" opacity="0.7">
+    <line x1="200" y1="10" x2="200" y2="19"/>
+    <line x1="654" y1="10" x2="654" y2="19"/>
+  </g>
+</svg>
