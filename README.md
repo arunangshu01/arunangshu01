@@ -12,46 +12,82 @@
   </a>
 </p>
 
-## Senior Software Engineer | Data & Cloud Services Architect | Python, Azure & GCP Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2500&pause=900&color=F5B83D&background=0A0805&center=true&vCenter=true&width=760&height=50&lines=SENIOR+SOFTWARE+ENGINEER;DATA+%26+CLOUD+ARCHITECT;AI+AGENTS+%2B+PIPELINES;7%2B+YEARS+OF+ENGINEERING;I+AM+IRON+MAN" alt="typing-intro" />
+</p>
 
-Welcome to my GitHub profile! I'm Arunangshu Pramanik, a Senior Software Engineer with 7+ years of experience architecting data and cloud solutions across Azure and GCP. I have a proven track record of designing and delivering production-grade data pipelines, SaaS products, and AI-powered tooling - from BigQuery and Airflow ingestion frameworks to AI agents and data-catalog chatbots.
+## Senior Software Engineer | Data & Cloud Architect
 
-### About Me
+Data platform engineer with **7+ years** of experience designing production-grade pipelines, event-driven SaaS systems, and AI-powered developer tooling across **Azure** and **GCP**.
 
-- 📍 **Location:** Bangalore, Karnataka, India
-- 📧 **Email:** arunangshu01@gmail.com
-- 🌐 [**Portfolio**](https://arunangshu-pramanik-portfolio.web.app/)
-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/arunangshu-pramanik-1896168b/) | [**GitHub**](https://github.com/arunangshu01) | [**LeetCode**](https://leetcode.com/u/arunangshu01)
+```yaml
+location:  Bangalore, Karnataka, India
+focus:     Data Platforms, ETL/ELT Frameworks, Real-time Integration, AI Agents
+cloud:     [GCP, Azure]
+contact:   arunangshu01@gmail.com
+```
+
+<p align="center">
+  📍 Bangalore, India &nbsp;·&nbsp;
+  <a href="mailto:arunangshu01@gmail.com"><img src="icons/gmail.svg" height="20" alt="Email"/> <b>Email</b></a> &nbsp;·&nbsp;
+  <a href="https://arunangshu-pramanik-portfolio.web.app/"><img src="icons/googlechrome.svg" height="20" alt="Portfolio"/> <b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/arunangshu-pramanik-1896168b/"><img src="icons/linkedin.svg" height="20" alt="LinkedIn"/> <b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/arunangshu01"><img src="icons/github.svg" height="20" alt="GitHub"/> <b>GitHub</b></a> &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/arunangshu01"><img src="icons/leetcode.svg" height="20" alt="LeetCode"/> <b>LeetCode</b></a>
+</p>
+
+> `SYS://J.A.R.V.I.S` - ALL SYSTEMS OPERATIONAL · SUIT INTEGRITY 100% · ARC REACTOR STABLE
+
+<p align="center">
+  <img src="divider.svg" width="100%" alt=""/>
+</p>
+
+### Impact at a Glance
+
+| | |
+|---|---|
+| **20+ enterprise clients** | Retail & FMCG pipelines for Ralph Lauren, Swarovski, Gap, Walmart, Heineken, CVS, 7-Eleven |
+| **Billions of records** | ETL systems processing high-volume transactional data in production |
+| **~90% efficiency gains** | Modernized standalone codebases and decoupled legacy systems |
+| **Team leadership** | Led and mentored a pod of 3 engineers; ran design sessions and code reviews |
+
+### What I Build
+
+- **Data ingestion frameworks** - two-stage sourcing + ingestion pipelines (Airflow, BigQuery) that extract, validate, and transform client data into master entity tables consumed by AI products
+- **Near real-time integration** - event-driven architectures on Cloud SQL, Cloud Run Functions, Cloud Tasks, Workflows, Eventarc, Pub/Sub, PostgreSQL
+- **AI engineering tooling** - agents for connector-failure triage, chatbots for pipeline task generation, and a Databricks/Snowflake-style data-catalog assistant with SQL generation
+- **Observability & FinOps** - cost and runtime dashboards for Cloud Run, Cloud Functions, and Compute Engine
+- **SaaS platforms** - event-driven applications on Azure Event Hubs, ELK, and Snowflake
 
 ### Experience
 
 - **Senior Software Engineer** - Impact Analytics, Bangalore *(Dec 2024 - Present)*
-  - Building core data engineering pipelines (Airflow + GCP) powering AI-driven retail products for clients like Ralph Lauren, Swarovski, Gap, Foot Locker, Patagonia, and Levi's
-  - Architected a near real-time integration framework using Cloud SQL, Cloud Run Functions, Cloud Tasks, BigQuery, Workflows, Eventarc, and PostgreSQL
-  - Built AI agents and chatbots for pipeline triage, task generation, and a Databricks/Snowflake-style data-catalog assistant
+  - Own core data engineering pipelines (Airflow + GCP) powering the AI-driven retail suite - PlanSmart, DemandSmart, InventorySmart, PriceSmart, PromoSmart, MarkSmart, DataSmart
+  - Architected the near real-time ingestion & cancellation framework across Cloud SQL, Cloud Run Functions, Cloud Tasks, BigQuery, Workflows, Eventarc, and PostgreSQL
+  - Built an AI agent for connector-failure triage and a data-catalog copilot over warehouses, workspaces, and BigQuery
+  - Led and trained a team of 3 engineers; ran design sessions and reviewed deliverables
 - **Digital Engineering Lead Engineer** - Apisero Inc. (now NTT Data), Bangalore *(Aug 2021 - Dec 2024)*
-  - Developed a SaaS application on Azure Event Hubs, ELK Stack, Snowflake, Blob Storage, and Python for Blue Yonder
-  - Delivered real-time data pipeline solutions to a dozen+ customers including JCPenney, ASDA, 7-Eleven, CVS, Heineken, and Walmart
+  - Developed a SaaS application on Azure Event Hubs, ELK Stack, Snowflake, and Python for Blue Yonder
+  - Shipped real-time data pipelines to 12+ customers (JCPenney, ASDA, 7-Eleven, CVS, Heineken, Walmart); designed ETL systems processing billions of transactions
+  - Achieved 90%+ code coverage via decoupling; authored configuration blueprints for data migration platforms
 - **Systems Engineer** - Infosys Limited, Bangalore *(Oct 2019 - Jul 2021)*
-  - Designed and managed software programs for Cisco Systems across front-end and back-end stacks
+  - Built and maintained full-stack programs and APIs for Cisco Systems; 95% QA efficiency
 
-### Skills
+### Technical Arsenal
 
-- **Programming Languages:** Python, SQL, Java, JavaScript, TypeScript
-- **Databases & Data Warehouses:** MSSQL, Oracle, PostgreSQL, Snowflake, Databricks, BigQuery
-- **Data Analysis:** Pandas, NumPy, PySpark
-- **Frameworks:** FastAPI, Django, Spring Boot, RESTful APIs
-- **Cloud Platforms:** Azure, GCP
-- **Orchestration:** Apache Airflow
-- **Others:** 
-  - **Azure:** Event Hubs, Files, Blob Storage, Container Registry & Services, Key Vault, Storage Explorer
-  - **GCP:** Cloud Tasks, Cloud Run (Functions), Cloud SQL, Cloud Scheduler, Workflows, Eventarc, Cloud Storage, Secret Manager, Pub/Sub, Dataflow, Compute Engine, Analytics Hub, IAM, VPC, Google Cloud APIs, Databricks Workspace
-  - **DevOps:** Docker, Kubernetes, Jenkins, Git, GitHub Actions, Bitbucket Pipelines, Shell Scripting, YAML
-  - **Monitoring & Logging:** Datadog, Elasticsearch, Kibana
-  - **Messaging & Caching:** Kafka, Redis
-  - **Development & Collaboration:** Jira, Confluence, Slack, DBeaver, Postman, Offset Explorer
-  - **AI Tools:** Cursor, Devin AI
-  - **Web Development:** HTML, CSS, Bootstrap, Angular, React
+| Domain | Stack |
+|---|---|
+| **Languages** | Python, SQL, Java, JavaScript, TypeScript |
+| **Data & Warehouses** | BigQuery, Snowflake, Databricks, PostgreSQL, MSSQL, Oracle |
+| **Processing** | Apache Airflow, Pandas, NumPy, PySpark, Dataflow |
+| **GCP** | Cloud Run (Functions), Cloud Tasks, Cloud SQL, Cloud Scheduler, Workflows, Eventarc, Pub/Sub, Secret Manager, Analytics Hub, IAM, VPC |
+| **Azure** | Event Hubs, Blob Storage, Files, Container Registry & Services, Key Vault |
+| **APIs & Frameworks** | FastAPI, Django, Spring Boot, REST |
+| **DevOps** | Docker, Kubernetes, Jenkins, GitHub Actions, Bitbucket Pipelines, Shell |
+| **Observability** | Datadog, Elasticsearch, Kibana |
+| **Messaging & Cache** | Kafka, Redis |
+| **AI Tooling** | Cursor, Devin AI |
+| **Web** | HTML, CSS, Bootstrap, Angular, React |
 
 ### Education
 
@@ -60,12 +96,16 @@ Welcome to my GitHub profile! I'm Arunangshu Pramanik, a Senior Software Enginee
 
 ### Awards & Recognitions
 
-- **Most Valuable Player of the Quarter** - Cisco Systems, Infosys Limited (March 2020)
-- **Rookie of the Quarter** - Apisero Inc. (October 2021)
-- **Apisero Aces Award** - Apisero Inc. (October 2022)
-- **Raving Reviews Awards x5** - Apisero Inc. (October 2021, December 2021, March 2022, January 2023 & February 2023)
-- **Vendustrious Award** - Apisero Inc. (March 2023)
 - **Impact Excellence Award (Q2 2026)** - Impact Analytics (June 2026)
+- **Apisero Aces Award** - Apisero Inc. (October 2022)
+- **Vendustrious Award** - Apisero Inc. (March 2023)
+- **Raving Reviews Awards x5** - Apisero Inc. (October 2021, December 2021, March 2022, January 2023 & February 2023)
+- **Rookie of the Quarter** - Apisero Inc. (October 2021)
+- **Most Valuable Player of the Quarter** - Cisco Systems, Infosys Limited (March 2020)
+
+<p align="center">
+  <img src="divider.svg" width="100%" alt=""/>
+</p>
 
 ### GitHub Statistics
 
@@ -111,6 +151,10 @@ Welcome to my GitHub profile! I'm Arunangshu Pramanik, a Senior Software Enginee
   </picture>
 </p>
 
+<p align="center">
+  <img src="divider.svg" width="100%" alt=""/>
+</p>
+
 ### Let's Connect
 
 I'm always open to connecting with like-minded professionals and exploring new opportunities. Whether you have a question, a project idea, or just want to chat about technology, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/arunangshu-pramanik-1896168b/), [email](mailto:arunangshu01@gmail.com), or my [portfolio](https://arunangshu-pramanik-portfolio.web.app/).
@@ -126,13 +170,13 @@ _Arunangshu Pramanik_
 ### Fun Fact of the Day
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="divider.svg" width="100%" alt=""/>
 </p>
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23272822&textColor=%23fcd34d&qColor=%23f5b83d&aColor=%23a8a29e&borderColor=%23462e13" width="100%"/>
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="divider.svg" width="100%" alt=""/>
 </p>
 
 <p align="center">
