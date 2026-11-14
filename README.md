@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2500&pause=900&color=F5B83D&background=0A0805&center=true&vCenter=true&width=760&height=50&lines=SENIOR+SOFTWARE+ENGINEER;DATA+%26+CLOUD+ARCHITECT;AI+AGENTS+%2B+PIPELINES;7%2B+YEARS+OF+ENGINEERING;I+AM+IRON+MAN" alt="typing-intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2500&pause=900&color=F5B83D&background=0A0805&center=true&vCenter=true&width=854&height=50&lines=SENIOR+SOFTWARE+ENGINEER;DATA+%26+CLOUD+ARCHITECT;AI+AGENTS+%2B+PIPELINES;7%2B+YEARS+OF+ENGINEERING;I+AM+IRON+MAN" alt="typing-intro" />
 </p>
 
 ## Senior Software Engineer | Data & Cloud Architect
