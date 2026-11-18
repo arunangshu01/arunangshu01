@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://arunangshu-pramanik-portfolio.web.app/">
+  <a href="https://arunangshupramanik.com/">
     <img src="https://img.shields.io/badge/⚡%20PORTFOLIO-ENTER%20THE%20ARMORY-f5b83d?style=for-the-badge&labelColor=0a0805" alt="portfolio" />
   </a>
 </p>
@@ -25,12 +25,13 @@ location:  Bangalore, Karnataka, India
 focus:     Data Platforms, ETL/ELT Frameworks, Real-time Integration, AI Agents
 cloud:     [GCP, Azure]
 contact:   arunangshu01@gmail.com
+terminal:  npx arunangshu
 ```
 
 <p align="center">
   📍 Bangalore, India &nbsp;·&nbsp;
   <a href="mailto:arunangshu01@gmail.com"><img src="icons/gmail.svg" height="20" alt="Email"/> <b>Email</b></a> &nbsp;·&nbsp;
-  <a href="https://arunangshu-pramanik-portfolio.web.app/"><img src="icons/googlechrome.svg" height="20" alt="Portfolio"/> <b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://arunangshupramanik.com/"><img src="icons/googlechrome.svg" height="20" alt="Portfolio"/> <b>Portfolio</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/arunangshu-pramanik-1896168b/"><img src="icons/linkedin.svg" height="20" alt="LinkedIn"/> <b>LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/arunangshu01"><img src="icons/github.svg" height="20" alt="GitHub"/> <b>GitHub</b></a> &nbsp;·&nbsp;
   <a href="https://leetcode.com/u/arunangshu01"><img src="icons/leetcode.svg" height="20" alt="LeetCode"/> <b>LeetCode</b></a>
@@ -181,7 +182,7 @@ contact:   arunangshu01@gmail.com
 
 ### Let's Connect
 
-I'm always open to connecting with like-minded professionals and exploring new opportunities. Whether you have a question, a project idea, or just want to chat about technology, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/arunangshu-pramanik-1896168b/), [email](mailto:arunangshu01@gmail.com), or my [portfolio](https://arunangshu-pramanik-portfolio.web.app/).
+I'm always open to connecting with like-minded professionals and exploring new opportunities. Whether you have a question, a project idea, or just want to chat about technology, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/arunangshu-pramanik-1896168b/), [email](mailto:arunangshu01@gmail.com), or my [portfolio](https://arunangshupramanik.com/).
 
 ---
 
