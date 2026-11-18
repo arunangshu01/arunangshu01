@@ -95,7 +95,7 @@ terminal:  npx arunangshu
 | **DevOps** | Docker, Kubernetes, Jenkins, GitHub Actions, Bitbucket Pipelines, Shell |
 | **Observability** | Datadog, Elasticsearch, Kibana |
 | **Messaging & Cache** | Kafka, Redis |
-| **AI Tooling** | Cursor, Devin AI |
+| **AI Tooling** | Cursor AI, Devin AI |
 | **Web** | HTML, CSS, Bootstrap, Angular, React |
 
 ### Education
